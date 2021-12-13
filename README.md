@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunnyD33 (Quincy Williams)
 - 👀 I’m interested in  all things coding! I am currently working towards becoming an Android Developer!
-- 🌱 I’m currently learning Kotlin, RetroFit, Dependency Injection and refreshing on Java. Currently working on rebuilding an old project from a midterm.
+- 🌱 I’m currently learning Kotlin, RetroFit, Dependency Injection and refreshing on Java. Currently working on rebuilding an old project from a midterm (What's The Word).
 - 💞️ I’m looking to collaborate on anything where I can contribute!
 - 📫 How to reach me, Email: williams.q@outlook.com LinkedIn: linkedin.com/in/quincy-williams-470261147
 
