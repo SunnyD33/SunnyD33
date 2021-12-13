@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunnyD33
+- 👋 Hi, I’m @SunnyD33 (Quincy Williams)
 - 👀 I’m interested in  all things coding! I am currently working towards becoming an Android Developer!
 - 🌱 I’m currently learning Kotlin, RetroFit, Dependency Injection and refreshing on Java. Currently working on rebuilding an old project from a midterm.
 - 💞️ I’m looking to collaborate on anything where I can contribute!
