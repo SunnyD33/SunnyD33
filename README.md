@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in  all things coding as I try to stay up to date on current tech while also learning new languages and tools.
 
-- 🌱 I am currently working on "My Personal Library" app. Project to being soon.
+- 🌱 I am currently working on "My Personal Library" app. Project to begin soon.
   
 - 🧠 I am currently learning React/React Native, TypeScript
   
