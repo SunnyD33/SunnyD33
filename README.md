@@ -11,7 +11,7 @@
   
 - 💞️ I’m looking to collaborate on anything where I can contribute!
   
-- 📫 How to reach me, Email: williams.q@outlook.com LinkedIn: <a href="https://www.linkedin.com/in/quincy-williams-470261147">Click Here</a>
+- 📫 How to reach me, Email: williams.q@outlook.com LinkedIn: <a href="https://www.linkedin.com/in/quincy-williams-470261147" target="_blank">Click Here</a>
 
   <p align="left">
   </p>
