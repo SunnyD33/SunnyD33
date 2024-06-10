@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in  all things coding as I try to stay up to date on current tech while also learning new languages and tools.
 
-- 🌱 I am currently working on "My Personal Library" app. Project to begin soon.
+- 🌱 I am currently working on an internal work tool to assist with testing instrument messages across interfaces when the device is not yet in place but specs are available. <a href="https://github.com/SunnyD33/InstMsgGenerator" target="_blank" rel="noopener noreferrer">Click Here</a>
   
 - 🧠 I am currently learning React/React Native, TypeScript
   
