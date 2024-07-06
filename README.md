@@ -13,6 +13,8 @@
   
 - 📫 How to reach me, Email: williams.q@outlook.com LinkedIn: <a href="https://www.linkedin.com/in/quincy-williams-470261147" target="_blank" rel="noopener noreferrer">Click Here</a> Personal Website: <a href="https://quincywilliams-devpage.pages.dev/" rel="noopener noreferrer">Website</a>
 
+- The next thing that I am working on is learning Kubernetes and Docker!
+
   <p align="left">
   </p>
 
