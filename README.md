@@ -5,9 +5,9 @@
 
 - 👀 I’m interested in  all things coding as I try to stay up to date on current tech while also learning new languages and tools.
 
-- 🌱 I am currently working on an internal work tool to assist with testing instrument messages across interfaces when the device is not yet in place but specs are available. <a href="https://github.com/SunnyD33/InstMsgGenerator" target="_blank" rel="noopener noreferrer">Click Here</a>
+- 🌱 I am currently working on visual GitHub metric tool to show repository metrics and development patterns! This will be a frontend and backend project. Currently named RepoDash!
   
-- 🧠 I am currently learning React/React Native, TypeScript
+- 🧠 I am currently using Python, JS and learning Ruby on the side.
   
 - 💞️ I’m looking to collaborate on anything where I can contribute!
   
